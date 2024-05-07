@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 
 Contact: [`bharatmishrawork@yahoo.com`](mailto:bharatmishrawork@yahoo.com)
 
-Working on a lot of things at once. If you think my work is good enough, kindly reach out to me via my email. Thanks.
+Working on a lot of things at once. If you think my work is good enough, kindly reach out to me via my email. \
 
-<!--
-[<img src="https://cdn.svgporn.com/logos/twitter.svg" width="30vw"/>](https://twitter.com/TheBharatMishra/)
+You can reach out to me at :
 [<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="30vw"/>](https://www.linkedin.com/in/thebharatmishra)
-[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png" width="30vw"/>](https://thebharatmishra.artstation.com/)
+[<img src="https://cdn.svgporn.com/logos/twitter.svg" width="30vw"/>](https://twitter.com/TheBharatMishra/)
+[<img src="https://cdn.svgporn.com/logos/mastodon-icon.svg" width="30vw"/>](https://mastodon.social/@bharatmishra)
+<!--
 [<img src="https://cdn.svgporn.com/logos/youtube-icon.svg" width="30vw"/>](https://www.youtube.com/@thebharatmishra)
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png" width="30vw"/>](https://thebharatmishra.artstation.com/)
 [<img style="filter: invert(48%) sepia(13%) saturate(3200%) hue-rotate(320deg) brightness(95%) contrast(80%);
 " src="https://static.itch.io/images/itchio-textless-black.svg" width="30vw"/>](https://bhanudev.itch.io)
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="30vw"/>](https://www.kaggle.com/thebharatmishra)
