@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 
 Contact: [`bharatmishrawork@yahoo.com`](mailto:bharatmishrawork@yahoo.com)
 
-Working on a lot of things at once. If you think my work is good enough, kindly reach out to me via my email. \
+Working on a lot of things at once. If you think my work is good enough, kindly reach out to me via my email. 
+
+Here you can find my problem-solving logs - [Leetcode](https://leetcode.com/u/bharatmishra/), [GeeksForGeeks](https://www.geeksforgeeks.org/user/thebharatmishra/), [CodeStudio](kri.com/code360/profile/bharatmishra). 
+
 
 You can reach out to me at :
 [<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="30vw"/>](https://www.linkedin.com/in/thebharatmishra)
